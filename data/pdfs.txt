@@ -1,0 +1,172 @@
+Traveled to site, which required a 1.5-hour drive.
+Conducted a safety inspection before beginning work by looking at three turbines from the ground. No issues were found.
+Started inspection on turbine #456.
+Damage was found on blades, with erosion on two blades.
+Performed superficial repair on the blade with resin.
+Started inspection on turbine #789.
+Checked gearbox and lubrication for #789, found a leak and low lubrication.
+Changed the oil on the rotor of turbine #789, and the leak was stopped through a sealing patch.
+Started inspection on turbine #123.
+Examined generator and electrical components for #123, found a malfunctioning sensor.
+The sensor was corrected through a calibration procedure.
+Started a general review for all turbines.
+Tested control systems for all turbines, recalibrated for optimal performance.
+Started calibration of energy grid connection with turbines.
+Encountered difficulties due to heavy rain and lightning during maintenance. Stopped calibration of energy grid systems for safety. Will be rescheduled for 4.4.2023.
+Traveled back to the office, which required another 1.5-hour drive.
+
+Inspected and diagnosed issues with turbine #1's gearbox.
+Identified broken gear teeth.
+Removed and replaced damaged gear, lubricated and reassembled gearbox.
+Performed a visual inspection of turbine #2's blades, noted minor wear and tear on several blades.
+Used ultrasonic testing to measure blade thickness and identify potential stress points.
+Communicated with procurement team to order replacement blades as a preventative measure.
+Conducted regular maintenance on turbine #3's electrical system, replaced damaged wiring, and cleaned components.
+Troubleshot turbine #4's control system, identified a malfunctioning sensor causing issues with the automatic shutdown procedure.
+Replaced faulty sensor and conducted a system test to ensure proper functioning.
+Updated maintenance log and completed required documentation for each turbine.
+Communicated with team members to ensure all work was completed safely and efficiently.
+
+Check splice roll / pressure roll engagement with splice tape three places across the web.
+Check splice roll for crown wear / TIR, check pressure roll for TIR.
+Splice Roll Crown Tolerance: 1 mm.
+TIR Tolerance: 0.05 mm.
+Op Side Center Dr Side: 0.0397.
+Op Side Center Dr Side: 0.0019.
+Check knife sharpness / cover clearance.
+Check knife center cut / check slots in clamping carriage for cleanliness.
+Check clamp carriage top rubber plate.
+Liner new / Medium slightly worn.
+Check clamp carriage Teflon tape.
+Check brake bar clamp three places across the web.
+All four brake pad assemblies had SHCS / bolts that should be reduced height Cheeseheads / replaced with stainless BHCS.
+All four pads were hitting only one leading edge of the brake pad.
+Medium pads exchanged / all four adjusted for proper engagement.
+Check pressure roll pivots.
+Some noticeable clearance in all four pivots.
+Liner left side / operator side had the most noticeable clearance.
+Check pressure roll proximity switch for operation / adjustment.
+Check pressure roll pneumatic cylinders.
+Check brake bar pneumatic cylinders.
+Five of the eight cylinders have noticeable power loss (Able to compress the cylinder under pressure).
+The liner splicer operator side cylinders / medium side operator side right side were in acceptable condition.
+Check E to P transducer release (Less than 2 secs).
+Brake balance check on the reel stand brake assemblies.
+Check for air leaks in the splicer cabinets.
+Numerous 8 mm T fittings leaking / no replacements available.
+Check knife pneumatic cylinders for blowby.
+
+Adjusted and calibrated forward proximity switch for the dancer.
+Tested roll drive system and found an intermittent fault in drive 1011t1.
+Fixed a bad connection in wires for control and checked drive enablement.
+Found missing signal issue in the drive and contacted Germany for help.
+Replaced drive, memory module, and communications card and reloaded parameters.
+Solved the problem and removed tape on the splicer roll.
+Noted damage on the clamp bar on both sides from missed splices.
+Advised the customer to replace the clamp bar as soon as possible.
+Reported an issue with roll stand 5 arms bleeding down when not running.
+Suggested mechanic help or maintenance department for hydraulic check valve adjustment.
+
+I noticed that the rails and cam followers were also worn out and not rolling anymore, which indicated severe wear.
+I enabled the release applicator roll button on the touch screen by sending a request to Germany for an update. I was unsure if this was an upgrade.
+This allowed the customer to run production without any problem. The customer replaced the rails and cam followers and fixed the gap on the drive side.
+We calibrated the machine electrically and mechanically for C-flute. The customer said they would replace B-flute later, so we did not work on it.
+We tested the machine with gap control and release for load cells for one day. We found a speed issue when running over 1000fpm due to water in the tach of the main motor.
+We cleaned and adjusted the tach, but the speed issue persisted. We checked the main motor and found worn brushes and carbon buildup. I suggested replacing the motor and the tach.
+The main motor's commutator looked fine, but the tach's commutator was discolored.
+The gap control and soft touch worked well after replacing the rails and cam followers. We ran the machine in soft touch mode overnight without any issues.
+
+Monitored production.
+Assisted with IBC motor failure.
+The web going into the IBC was not being pulled up.
+Adjusted IBC correction value from 15 to 20.
+Released torque on HQ1.
+Reseated upper and lower blades.
+Adjusted all four HQ1 bearings 20mm.
+Adjusted twist torque to 135Nm cutting dry 42# liner last 1400mm of the cut.
+Torque twisting flange fixing bolts to 650Nm.
+Tuned with dry 42# liner.
+Released torque on HQ2.
+Reseated upper and lower blades.
+Adjusted all four HQ2 bearings 20mm.
+Adjusted twist torque to 135Nm cutting dry 42# liner last 1400mm of the cut.
+Torque twisting flange fixing bolts to 650Nm.
+Tuned with dry 42# liner and then wet 42# liner.
+Tuned HQ1 with wet 42# liner.
+Checked zero pulse on both levels-OK.
+Ran HQM in test mode with 840mm cut off at 1000fpm for approximately one hour with no issues.
+BHS electrician changed out the drive for HQ1 because the customer could not run over 1000fpm without the drive faulting out.
+Checked bearing temperatures, all within spec 56 to 58 C.
+Checked medium and top liner roll stand brake function with Scott.
+Assisted in changing out some bad cleanout fingers on C flute.
+Came back in for 10 pm startup, monitored production and checked cut quality with no issues.
+
+Checked parts assembly as much as possible before machine production stop.
+Disassembled AF P to allow exchange of applicator and metering rolls.
+Removed A Flute cassette from the transportation dolly assembly.
+Installed newly produced applicator and metering rolls utilizing parts as required. Parts not requiring exchange for new pieces utilized in the reassembly.
+Bearings were hand-packed with grease. Additional grease was pumped into the bearing assemblies prior to putting the machine back in production.
+Removed the drive mechanisms for the adhesive dam assemblies.
+Disassembled units/cleaning of parts. Reassembled units with new bearings/seals/linear bearings/etc. Utilized parts that did not require exchange for new.
+Lubricated the linear bearings before assembly with Krytox lubricant.
+Calibration/set up of the metering roll gap assembly: Roll paralleling/gap indication setting/minimum and maximum.
+Cleaned the light grid assembly/recalibration required.
+Attempted setting of the adhesive dam drive assembly. The operator-side proximity switches were unwired from the terminal connector blocks. The operator-side outside extent of travel proximity required exchange for new. The replacement proximity was not the same as the OEM part. Unable to get proper setting with the replaced proximity. Would require extensive modification to the mounting bracket. Customer to order replacement OEM part.
+The adhesive dam assembly currently is not able to complete the calibration routine (Malfunctioning proximity). The assembly will need to be run in manual until the proximity is replaced.
+Check/adjustment of the position of the adhesive dams not possible until the proximity is replaced. Dams must be calibrated properly for this function to work correctly.
+Observed the machine in production.
+
+Met with customer for safety orientation.
+Changed hydraulic hoses, total#86.
+Removed applicator and doctor roll, removed old ledge MF glue unit and installed new one, applied paint on glue unit pan.
+Completion of intervention with applicator and doctor roll change. No issues.
+Paralleled glue gap to less than 0.05 mm. Calibration was performed, voltage was at 5.1 V Glue Applicator. Gap was calibrated 0.004 cold for 3 cassettes C, B, E. Mechanically and electrically flags were set up at center position.
+Rebuilt lifting spindles OP&DR.
+Repaired glue unit hydraulic issues, including pressure balt, control valve o-rings, proxy switch. Removed lifting spindles and replaced with new plus new complete accessories. Removed stainless steel pan in bottom of glue unit and polished bottom pan base. Cleaned up bottom of glue unit and found that it was completely rusted out. Glue unit has a loss of approximately 8mm of material.
+Prepared/installed new rolls and accessories in MF glue unit.
+Replaced lifting spindles, set spindle protrusion 1mm at minimum, and set flags to red box with this 1mm.
+Paralleled glue gap.
+Monitored production for C&B&E.
+
+Conducted entrance interview with customer (Mr. Dennis Huff, Maintenance Supervisor).
+Checked a few items on the machine before it was put back in production (to run B/E double wall) after it was down for approximately an hour.
+Only one number (W-76702) was easily viewed on the lower corrugating roll, while the other roll had considerable buildup in the area where the roll numbers are. Non-conformance reports were taken to ascertain corrugating roll parallel.
+The lineal counter was set at 66,781,034 million lineal feet.
+Conducted a cursory look at roll condition.
+Discussed with the maintenance department about the items they had checked/adjusted/addressed in the prior two weeks before my arrival. From this discussion, a few things stood out. The corrugating roll parallel had to be adjusted multiple times.
+The alignment of the corrugating rolls in the ambient temperature range showed roll slot wear misalignment.
+Checking the alignment of the corrugating rolls in the heated condition revealed definitive misalignment. The wear pattern in the lower corrugating roll was shifted approximately two millimeters.
+Arranged for the machine to be down and cooled off for the planned weekly PM maintenance.
+Inspection of the corrugating rolls revealed significant plating loss on the tips and the root radius of the rolls.
+Full-width non-conformance reports revealed larger than expected impressions for the lineal footage on the counters.
+There is a significant average paper width wear pattern on the rolls. Applying 90 bar to the rolls revealed an impression that showed absence of engagement on the operator and drive-side width of approximately 10 inches centered eighteen inches in from the ends of the rolls.
+The shifting of the corrugating rolls was noticeable in the marking on the non-conformance reports.
+The samples taken and inspected in the second resonance revealed malformation of the medium and fracturing of the medium (at normal loading pressures and paper tension settings).
+Conducted exit interview with customer.
+Discussed findings with customer.
+The rolls having shown evidence of lateral shifting will have to be removed from the machine, and the cassette disassembled to determine the cause (more than likely a bearing/retaining issue).
+Because of the condition of the plating and the wear pattern in the rolls, I suggested that the customer initiate contact with the Knoxville office.
+Counseled them not to disassemble the cassette, being that the cassette was assembled and shipped as a unit from Knoxville.
+
+Met with Maintenance Supervisor in the morning.
+Prepared the machine to remove the old chain wheel with clutch.
+Installed glue unit extensions to move the glue unit out far enough.
+Disconnected starch lines on the front of the glue unit.
+Removed the handrail.
+Removed pins from cylinder OS and DS.
+Pushed the glue unit out by hand to access the belt wheel. Removed the drive belt.
+Removed the old belt wheel with the old clutch from the applicator roll.
+Removed the old bearing clutch from the belt wheel. Cleaned everything up and installed new bearing clutch, cover blade, screws, and sealing for the belt wheel.
+Cleaned up the drive shaft and installed the belt wheel with the new bearing clutch using grease. Tightened up all screws with Loctite.
+Cleaned up the side frame on the glue unit.
+Installed the drive belt again. The customer did not have an Hz meter. Tightened up the belt by feeling. Would recommend that the customer buy an Hz meter.
+Installed guard again.
+Turned on glue rolls. Everything is looking good.
+Pushed glue unit back into the machine. Connected pins for cylinders again on OS and DS.
+Connected both starch lines again.
+Moved glue unit all the way in and out with the hydraulic to make sure everything is clear.
+Finishing up the job. Cleaning the work area.
+Jesse asked me to look at the automatic roll pick up on RS-M 1 bottom liner. Jesse and I tried a paper roll on both sides.
+It looks like everything is working fine with no issues.
+Operator has to make sure that DS cart is all the way out to load the roll in the automatic. Also, looking for running and not running side on SP-M.
+Working on report and hours.
