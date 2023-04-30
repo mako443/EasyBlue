@@ -56,24 +56,15 @@
 <hr />
 
 <p><u>Reason and solution of the problem / accomplished work</u></p>
-<p>
-    The severity of the non contact area (Pressure roll to splice roll / attachment of the paper to the double faced
-    tape
-    varied in severity form one side to the other.
-    The majority of the missed splices / broken apart / torn splices were generated when running the left side and
-    splicing into the right side on both splicers.
-    Customer is using a thicker splicing tape than normal to compensate / obtain adequate splicing.
-</p>
+<p>{{ solution }}</p>
 <hr />
 
 
 <p><u>Service notes</u></p>
 <ul>
-    <li>Traveled to site, which required a 1.5-hour drive.</li>
-    <li>Conducted a safety inspection before beginning work by looking at three turbines from the ground. No issues were
-        found.</li>
-    <li>Started inspection on turbine #456.</li>
-    <li>Damage was found on blades, with erosion on two blades. </li>
+    {% for bullet_point in bullet_points %}
+    <li>{{ bullet_point }}</li>
+    {% endfor %}
 </ul>
 
 

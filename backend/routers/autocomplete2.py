@@ -18,6 +18,14 @@ with open("../data/embeddings.pkl", "rb") as f:
     lines = data["lines"]
 
 
+def translate(text, from_language, to_language):
+    message = HumanMessage(
+        content=f"Translate the following text from {from_language.capitalize()} to {to_language.capitalize()} and only return the translated text: {text}"
+    )
+    result = chat([message])
+    return result.content
+
+
 chat = ChatOpenAI(temperature=0, openai_organization=settings.OPENAI_ORG, openai_api_key=settings.OPENAI_API_KEY)
 
 
@@ -29,21 +37,36 @@ with open("../data/embeddings.pkl", "rb") as f:
     assert len(lines) == len(embeddings)
 
 
-@router.post("/autocomplate_suggestions")
-def autocomplate_suggestions(data: AutocompleteData):
+@router.post("/autocomplete_suggestions")
+def autocomplete_suggestions(data: AutocompleteData, language: str = "english"):
+    # template = """You are a writing assistant for technicians. Based on the start of their text, generate an autocompletion.
+    #                 Only finish the sentence. Keep it to one sentence. Do not generate additional text beyond the description.
+    #                 Examples: {examples}
+    #                 Current Input: {userinput}"""
+
     template = """You are a writing assistant for technicians. Based on the start of their text, generate an autocompletion. 
-                    Only finish the sentence. Keep it to one sentence. Do not generate additional text beyond the description.
+                    Only return the complete sentence. Keep it to one sentence. Do not generate additional text beyond the description.
                     Examples: {examples}
                     Current Input: {userinput}"""
+
+    user_input = data.text
+    print("user_input:", user_input)
+    if language != "english":
+        user_input = translate(user_input, language, "english")
+        print("Translated to english:", user_input, "END")
 
     promptTemplate = PromptTemplate(input_variables=["userinput", "examples"], template=template)
 
     examples = "\n".join(lines)
-    prompt = promptTemplate.format(userinput=data.text, examples=examples)
+    prompt = promptTemplate.format(userinput=user_input, examples=examples)
 
     result = chat([HumanMessage(content=prompt)]).content
     if ". " in result:
         result = result.split(". ")[0] + ". "
+
+    if language != "english":
+        result = translate(result, "english", language)
+        print("Translated to", language, ":", result, "END")
     return {
         "result": result,
     }
